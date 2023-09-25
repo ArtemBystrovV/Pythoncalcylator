@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Pythoncalcylator", "Pythoncalcylator.pyproj", "{7783EA38-62C8-41F8-9DC3-2877D4E21F0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7783EA38-62C8-41F8-9DC3-2877D4E21F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7783EA38-62C8-41F8-9DC3-2877D4E21F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51F3882A-0F9A-4B66-9587-D3FA20690A5F}
+	EndGlobalSection
+EndGlobal
